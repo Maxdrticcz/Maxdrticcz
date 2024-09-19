@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A Web Developer</h3>
 
+- 🌱 I’m currently learning **JavaScript**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/maxdrtic_cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maxdrtic_cz" height="30" width="40" /></a>
