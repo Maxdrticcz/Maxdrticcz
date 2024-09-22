@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/maxdrtic_cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maxdrtic_cz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/maxdrtic_cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maxdrtic_cz" height="30" width="40" /></a>
 <a href="https://discord.gg/Maxdrtic_cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Maxdrtic_cz" height="30" width="40" /></a>
 </p>
 
